@@ -30,4 +30,33 @@ We’d love your thoughts!
 - What would make this more impactful?  
 - Any tips before pitching for funding?  
 
+# DET Project – Emotion Analysis Pioneer
+
+## About
+I am developing DET Project, a unique platform that combines multiple emotion analysis methods with life guidance.  
+Unlike traditional apps focusing on a single method, DET integrates:
+
+- Facial emotion recognition (camera-based)
+- Voice emotion analysis (microphone-based)
+- Text and journaling emotion feedback
+- Color-based emotional representations
+- Merged logs (unified emotion_log.json)
+- PDF emotion reports for personal growth
+- Career and rehabilitation guidance based on diagnosis and symptoms
+
+## Vision
+The goal is not only to analyze emotions but to provide direction, meaning, and rehabilitation paths in life.  
+This makes DET Project more than a tool — it’s a **new approach to mental wellbeing and life planning**.
+
+## Status
+- Prototype under development in VS Code
+- Local, privacy-first approach
+- Includes journaling, feedback, 3D visualization, and export features
+
+## Contact
+Discord: `YourDiscordName#XXXX`  
+GitHub: [14400swans](https://github.com/14400swans)
+
+
+
 Thanks a lot! 🙌
